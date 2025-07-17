@@ -72,12 +72,3 @@ To analyze restaurant operations through data, enabling better menu planning, pr
 - 🍝 **Category Strategy**: Italian dishes showed strong performance among top spenders—consider maintaining or expanding this category  
 - 👥 **Customer Patterns**: Recognize high-volume orders and frequent item combinations to inform combo deals or loyalty rewards
 
----
-
-## 🖼️ Query Snapshot Examples
-
-> Add screenshots of your SQL output (e.g., from MySQL Workbench, pgAdmin, or VS Code). Upload them to your GitHub repo and embed them like this:
-
-```markdown
-![Top Orders by Spend](https://github.com/yourusername/restaurant-sql-analysis/assets/top-orders.png)
-![Items per Category](https://github.com/yourusername/restaurant-sql-analysis/assets/items-category.png)
